@@ -1,4 +1,3 @@
-
 import java.io.*;
 import java.util.*;
 
@@ -105,7 +104,6 @@ public class Main
 	    	    				newList.add(college.getKey());
 		    	    			newList.add(student.getKey());
 	    	    				System.out.println(college.getKey()+" "+student.getKey());
-	    	    				break;
 	    	    			}
 	    	    		}
 	    	    	}
